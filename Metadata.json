@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 1377,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remotely-update-the-environment-settings-for-a-windows-azure-web-site/master/Set-FacebookAppProperties.ps1",
+    "DownloadCount": 3835,
+    "Id": "Remotely-Update-the-25375d03",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 440,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Demonstrates how the settings of a web site can be set remotely using PowerShell. Assumes a Facebook application that has been deployed, and changes its settings for AppId and AppSecret.",
+    "Title": "Remotely Update the Environment Settings for a Windows Azure Web Site",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/remotely-update-the-environment-settings-for-a-windows-azure-web-site",
+    "UserTags": "Change Control, Dev / Test Environments"
+}
